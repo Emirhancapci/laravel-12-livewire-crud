@@ -23,10 +23,10 @@ Modern ve responsive bir not yönetim uygulaması. Laravel 12, Livewire 4 ve Flu
 ## 📦 Kurulum
 ```bash
 # Repository'yi klonlayın
-git clone https://github.com/Emirhancapci/laravel-livewire-notes.git
+git clone https://github.com/Emirhancapci/laravel-12-livewire-crud.git
 
 # Proje dizinine gidin
-cd laravel-livewire-notes
+cd laravel-12-livewire-crud
 
 # Bağımlılıkları yükleyin
 composer install
